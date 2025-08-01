@@ -37,7 +37,7 @@ Next, you'll create and configure the virtual machine (VM) that will run Ubuntu 
 
 3.  **Create Virtual Hard Disk**:
 
-      * Accept the default **Create a Virtual Hard Disk Now** option. A size of **25 GB** is plenty.
+      * Accept the default **Create a Virtual Hard Disk Now** option. A size of **30 GB** is plenty.
       * Click **Next**, and then **Finish**.
 
 4.  **Configure Networking**:
