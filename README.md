@@ -1,6 +1,6 @@
 # Splunk Bootcamp Notes
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Status](https://img.shields.io/badge/Status-In%20Progress-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Boot%20Camp%20Status-Complete-blue?style=for-the-badge)
 
 ## About This Repository
 
