@@ -49,12 +49,12 @@ These guides provide hands-on instructions for common Splunk-related tasks:
 
 
 * **Setup**:
-    * [Setting up Splunk on an AWS EC2 Instance](/guides/aws_ec2_setup.md)
-    * [Setting up Splunk on a Local VirtualBox VM](/guides/local_vm_setup.md)
+    * [Setting up Splunk on an AWS EC2 Instance](/guides/Splunk_AWS_EC2_instance_setup.md)
+    * [Setting up Splunk on a Local VirtualBox VM](/guides/splunk_local_virtual_machine.md)
 * **Configuration**:
-    * [Configuring a Universal Forwarder](/guides/forwarder_configuration.md)
+    * [Configuring a Universal Forwarder](/guides/splunk_configure_forwarder.md)
 * **Tools**:
-    * [A Basic Guide to Vim and Nano](/guides/cli_editors_guide.md)
+    * [A Basic Guide to Vim and Nano](/guides/splunk_basic_vim_and_nano.md)
 
 
 ## Acknowledgments
