@@ -5,7 +5,7 @@
 
 ## About This Repository
 
-This repository contains seesion summeries (a conation of personal notes, configurations, and key takeaways) from the 5-day Splunk Bootcamp. The goal is to provide a centralized and organized resource for all materials and practical examples covered during the training.
+This repository contains session summaries (a combination of personal notes, configurations, and key takeaways) from the 5-day Splunk Bootcamp. The goal is to provide a centralized and organized resource for all materials and practical examples covered during the training.
 
 
 ### Course Details
