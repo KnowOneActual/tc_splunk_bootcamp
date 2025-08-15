@@ -2,38 +2,60 @@
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Status](https://img.shields.io/badge/Boot%20Camp%20Status-Complete-blue?style=for-the-badge)
 
+
 ## About This Repository
 
-This repository contains my personal notes, configurations, and key takeaways from the 5-day Splunk Bootcamp. The goal is to have a centralized place for all the materials and practical examples covered during the training.
+This repository contains seesion summeries (a conation of personal notes, configurations, and key takeaways) from the 5-day Splunk Bootcamp. The goal is to provide a centralized and organized resource for all materials and practical examples covered during the training.
+
 
 ### Course Details
+
+
+
 * **Provider:** [Thinkcloudly](https://thinkcloudly.com/)
 * **Instructor:** Riddhi Kakadiya
 * **Duration:** 5 Days
 
-## Content Overview
 
-The notes are organized by session, covering the core concepts of Splunk administration and usage. The topics include:
+## Repository Structure
 
-* **Session 1: Introduction to Splunk**
-    * Core concepts, features, and components (Indexers, Search Heads, Forwarders).
-    * Splunk products (Enterprise, Cloud, Light).
-* **Session 2: Data Onboarding & Configuration**
-    * Configuring `inputs.conf` and `outputs.conf`.
-    * Setting up Universal Forwarders.
-* **Session 3: Search Processing Language (SPL)**
-    * Fundamentals of SPL.
-    * Filtering, transforming, and visualizing data.
-* **Session 4: Reports, Alerts, and Dashboards**
-    * Creating and managing knowledge objects.
-    * Building dynamic dashboards to visualize data.
-* **Session 5: Splunk Administration**
-    * User and role management.
-    * Understanding Splunk architecture and data pipelines.
+This repository is organized into several key directories:
 
-## How to Use This Repository
 
-Feel free to browse the notes by session folder. The configuration files and code snippets are intended to be practical examples that you can adapt for your own use.
+
+* **/docs/sessions/**: Contains detailed summary notes for each day of the bootcamp.
+* **/guides/**: Includes practical, step-by-step guides for setting up environments and configuring Splunk.
+* **/assets/presentations/**: Holds the original PowerPoint presentations from each session.
+* **/scripts/**: Contains any useful scripts for automating tasks.
+
+
+## Session Notes
+
+Here are the summaries for each session of the bootcamp:
+
+
+
+* **Session 1**: [Introduction to Splunk](/docs/sessions/01_introduction.md)
+* **Session 2**: [Indexes and Data Onboarding](/docs/sessions/02_indexes_and_onboarding.md)
+* **Session 3**: [Search Processing Language (SPL)](/docs/sessions/03_search_processing_language.md)
+* **Session 4**: [Configuration & Data Handling](./docs/sessions/04_configuration_and_data_handling.md)
+* **Session 5**: [Cloud Integration with AWS](./docs/sessions/05_cloud_integration_with_aws.md)
+
+
+## Practical Guides
+
+These guides provide hands-on instructions for common Splunk-related tasks:
+
+
+
+* **Setup**:
+    * [Setting up Splunk on an AWS EC2 Instance](/guides/aws_ec2_setup.md)
+    * [Setting up Splunk on a Local VirtualBox VM](/guides/local_vm_setup.md)
+* **Configuration**:
+    * [Configuring a Universal Forwarder](/guides/forwarder_configuration.md)
+* **Tools**:
+    * [A Basic Guide to Vim and Nano](/guides/cli_editors_guide.md)
+
 
 ## Acknowledgments
 
