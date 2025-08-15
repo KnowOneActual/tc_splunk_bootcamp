@@ -1,6 +1,6 @@
-### : Cloud Integration with AWS
+### Cloud Integration with AWS
 
-This session was a special focus on integrating Splunk with Amazon Web Services (AWS) to pull in data directly from the cloud. The primary example was how to ingest data from an **AWS S3 bucket**.
+This session focused on integrating Splunk with Amazon Web Services (AWS) to pull in data directly from the cloud. The primary example was how to ingest data from an **AWS S3 bucket**.
 
 The process was broken down into two main parts: setup in AWS and configuration in Splunk.
 

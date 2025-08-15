@@ -21,7 +21,7 @@ A basic search starts by specifying an **index** and can be refined with keyword
 
 Splunk can be deployed in several ways depending on the scale and needs of the environment:
 
-1.  **Standalone Deployment**: A single Splunk instance handles everything: data input, parsing, indexing, and searching. This is great for learning or small-scale use but lacks high availability.
+1.  **Standalone Deployment**: A single Splunk instance handles everything: data input, parsing, indexing, and searching. This is great for learning or small-scale use, but lacks high availability.
 
 2.  **Distributed Deployment**: The roles are split across different components:
     * **Forwarders**: Lightweight agents that collect and send data.

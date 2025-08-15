@@ -1,5 +1,4 @@
 
-
 ### Summary of Session 4: Configuration & Data Handling
 
 This session focused on the core concepts of how Splunk processes data, the different ways to deploy Splunk, and a deeper dive into using SPL for searching and transforming data.
