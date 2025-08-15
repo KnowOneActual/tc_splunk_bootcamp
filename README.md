@@ -35,11 +35,11 @@ Here are the summaries for each session of the bootcamp:
 
 
 
-* **Session 1**: [Introduction to Splunk](/docs/sessions/01_introduction.md)
-* **Session 2**: [Indexes and Data Onboarding](/docs/sessions/02_indexes_and_onboarding.md)
-* **Session 3**: [Search Processing Language (SPL)](/docs/sessions/03_search_processing_language.md)
-* **Session 4**: [Configuration & Data Handling](./docs/sessions/04_configuration_and_data_handling.md)
-* **Session 5**: [Cloud Integration with AWS](./docs/sessions/05_cloud_integration_with_aws.md)
+* **Session 1**: [Introduction to Splunk](/docs/sessions/splunk_summary_of_session_01.md)
+* **Session 2**: [Indexes and Data Onboarding](/docs/sessions/splunk_summary_of_session_01.md)
+* **Session 3**: [Search Processing Language (SPL)](/docs/sessions/splunk_summary_of_session_01.md)
+* **Session 4**: [Configuration & Data Handling](/docs/sessions/splunk_summary_of_session_01.md)
+* **Session 5**: [Cloud Integration with AWS](/docs/sessions/splunk_summary_of_session_01.md)
 
 
 ## Practical Guides
